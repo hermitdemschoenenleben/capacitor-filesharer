@@ -60,7 +60,6 @@
         "@capacitor/core": "^4.0.0",
         "@capacitor/ios": "^4.0.0",
         "@types/file-saver": "2.0.3",
-        "@types/jest": "27.0.2",
         "jest": "27.2.1",
         "ts-jest": "27.0.5",
         "eslint": "7.32.0",
